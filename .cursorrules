@@ -1,0 +1,4 @@
+Mỗi khi tạo mới, tinh chỉnh hoặc nâng cấp giao diện (Blade views và CSS):
+1. Đọc và áp dụng toàn bộ các nguyên tắc, token, typography, spacing và layout từ thư mục `.claude/skills/`.
+2. Không bị ràng buộc bởi bảng màu cũ. Tự do lựa chọn phong cách hiện đại, cao cấp và bắt mắt nhất phù hợp với ngành dịch vụ Salon/Barbershop (ví dụ: Modern Luxury, Minimalist Neo-Brutalism, hoặc Glassmorphism với màu sắc tương phản sắc nét, micro-interactions sinh động).
+3. Đảm bảo trải nghiệm người dùng (UX) trực quan, chuẩn responsive 100% trên cả mobile và desktop.
